@@ -33,7 +33,7 @@ The latest version can be downloaded from the [Releases](https://github.com/0xC0
 1. Close your host application.
 2. Place `Av1Image.8bi` in the folder that your host application searches for file format plug-ins.
 3. Restart your host application.
-4. The plug-in will now be available as the `AV1 Image` item in the Open and Save dialogs.
+4. The plug-in will now be available as the `AV1 Image` item in the `Open` and `Save a Copy` (for export) dialogs.
 
 ### Installation in Specific Hosts
 
